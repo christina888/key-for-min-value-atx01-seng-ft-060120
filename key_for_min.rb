@@ -11,5 +11,5 @@ def key_for_min_value(name_hash)
    
     end
   end 
-p lowest_key  
+puts lowest_key  
 end
